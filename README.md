@@ -44,9 +44,12 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1 align="center"> ⚙️ &nbsp;GitHub Analytics  </h1>
 
 ![Diber1's Stats](https://github-readme-stats.vercel.app/api?username=Diber1&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![Diber1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diber1&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+![Diber1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diber1&theme=chartreuse-dark&hide_border=true)
 
 🐍 &nbsp; COMMITS
 
